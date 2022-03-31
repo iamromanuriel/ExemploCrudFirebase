@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExampleMVVM</string>
+    <string name="title_update">Update</string>
+</resources>
